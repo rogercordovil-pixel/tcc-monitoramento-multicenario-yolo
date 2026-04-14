@@ -100,3 +100,7 @@ Os datasets incluem cenários simulados e/ou públicos organizados por:
 
 ```bash
 git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
+
+## 🔗 Repositório
+
+Disponível em: https://github.com/rogercordovil-pixel/tcc-vigilancia-multivariada-yolo
